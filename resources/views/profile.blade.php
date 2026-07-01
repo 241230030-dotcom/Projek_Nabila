@@ -1,8 +1,0 @@
-<div>
-    <a href="/">Profile</a>
-    <a href="/Kontak">Kontak</a>
-    <a href="/Profile">Profile</a>
-
-
-    <h1>Halaman Profile</h1>
-</div>

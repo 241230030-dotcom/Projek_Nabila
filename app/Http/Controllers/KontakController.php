@@ -6,7 +6,8 @@ use Illuminate\Http\Request;
 
 class KontakController extends Controller
 {
-    public function Kontak(){
+    public function index()
+    {
         return view('Kontak');
     }
 }
